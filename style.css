@@ -69,6 +69,10 @@ header nav li a{
   margin-top: 60px;
 }
 
+#mystuff h2{
+  text-align: center;
+}
+
 #mystuff li{
   float:left;
   width: 28%;
@@ -82,6 +86,11 @@ header nav li a{
   display:block;
   content:"";
   clear:both;
+}
+
+#mystuff img{
+  width: 250px;
+  height: 200px;
 }
 
 #quote{
