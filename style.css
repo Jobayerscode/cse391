@@ -126,3 +126,12 @@ footer li{
   font-size: 14px;
   line-height: 1.6em;
 }
+
+@media screen and (max-width: 860px){
+  #mystuff li{
+    float:none;
+    width: 60%;
+    margin: 0 20%;
+    text-align: center;
+  }
+}
