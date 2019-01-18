@@ -67,6 +67,9 @@ header nav li a.current{
 #mystuff h2{
   text-align: center;
 }
+#mystuff ul{
+  text-align: center;
+}
 
 #mystuff li{
   float:left;
@@ -84,8 +87,8 @@ header nav li a.current{
 }
 
 #mystuff img{
-  width: 250px;
-  height: 200px;
+  width: 120px;
+  height: 120px;
 }
 
 #quote{

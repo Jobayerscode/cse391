@@ -76,6 +76,9 @@ header nav li a.current{
 #mystuff h2{
   text-align: center;
 }
+#mystuff ul{
+  text-align: center;
+}
 
 #mystuff li{
   float:left;
