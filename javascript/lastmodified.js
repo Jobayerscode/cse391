@@ -1,4 +1,6 @@
+
 function lastMod() {
-  var x = new Date(document.lastModified);
+  var x = document.lastModified;
   document.getElementById("lastmod").innerHTML = x;
 }
+lastMod();
