@@ -143,3 +143,17 @@ footer li{
   }
 
 }
+
+@media screen and (max-width: 400px){
+  #mystuff li{
+    float:none;
+    width: 60%;
+    margin: 0 20%;
+    text-align: center;
+  }
+  #mystuff img{
+  width: 125px;
+  height: 100px;
+}
+
+}
