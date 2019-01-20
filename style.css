@@ -73,10 +73,7 @@ header nav li a.current{
   margin-top: 60px;
 }
 
-#mystuff h3{
-  text-align: center;
-}
-#mystuff ul{
+#mystuff h3, ul, p{
   text-align: center;
 }
 
